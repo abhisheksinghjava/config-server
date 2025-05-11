@@ -1,0 +1,8 @@
+my:
+  greeting: Hello
+  list: One, Two, Three
+ 
+db:
+  connection: connection-string-here
+  host: 192.169.0.0
+  port: 8081
